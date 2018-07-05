@@ -5,7 +5,7 @@
 body {
     background-image: url('../images/background.jpg') !important;
     background-size: 100%;
-    /* font-family: 'Kaushan Script', cursive; */
+    font-family: 'Kaushan Script', cursive;
     color:black;
     max-width: 960px;
     margin-left: 16%;
@@ -13,7 +13,7 @@ body {
 
 .jumbotron {
     text-align: center;
-    /* font-family: 'Kaushan Script', cursive; */
+    font-family: 'Kaushan Script', cursive;
     background-color: rgba(239, 247, 238, 0.349);
     font-weight: bolder; 
     color:black;
