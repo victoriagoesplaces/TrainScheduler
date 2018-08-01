@@ -8,7 +8,7 @@ While using this app, you will have the availability to add train destinations. 
 
 ### Built With
 * [Firebase](https://firebase.google.com/) - Used as the project database
-* [Bootstrap](http://materializecss.com/) - css Framework (Admin Page)
+* [Bootstrap](http://materializecss.com/) - css Framework 
 
 ### Screenshot
 
